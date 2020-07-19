@@ -1,1 +1,1 @@
-# ROCK-PAPER
+# Rock, Paper, Scissors
